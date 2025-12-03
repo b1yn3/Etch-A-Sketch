@@ -1,6 +1,5 @@
 const container = document.querySelector('.container');
 
-container.style.backgroundColor = 'pink';
 container.style.height = '600px';
 container.style.width = '600px';
 container.style.display = 'flex';
